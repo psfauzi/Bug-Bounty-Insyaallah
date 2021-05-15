@@ -1,0 +1,16 @@
+1. ssl.cert.subject.CN:"*target.com" :
+www.shodan.com
+www.censys.io
+
+2. https://crimeflare.org:82/cfs.html
+
+3. host target.com
+
+4. XML-RPC Pingback
+https://blog.detectify.com/2019/07/31/bypassing-cloudflare-waf-with-the-origin-server-ip-address/
+
+
+Bypass firewalls by abusing DNS History
+
+CloudFail
+
