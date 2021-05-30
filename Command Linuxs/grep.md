@@ -14,3 +14,7 @@ Commands | Keterangan
 3. cat linepattern.txt | sed 's/hi/bye/;s/hello/jello/g' > string hi diubah menjadi bye dan string hello dibuah menjadi jello.
 4. cat urls.txt | sed 's/^/https:\/\//' > Menambahkan https:// dibelakang nama url.
 5. 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
