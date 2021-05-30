@@ -7,5 +7,5 @@ Grep singkatan dari golbal regular Exppression
 
 ### Sed For Bug Bountys
 
-1. echo hi shifa | sed 's/hi/bye' > mengganti kata hi menjadi bye
-2. 
+1. echo hi shifa | sed 's/hi/bye' > mengganti kata hi menjadi bye ; s = awal dan g=akhir.
+2. cat linepattern.txt | sed '/saba/s/hi/bye/'
