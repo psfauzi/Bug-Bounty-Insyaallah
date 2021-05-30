@@ -24,4 +24,4 @@ at urls.txt I sed  -e 's/com/yahoo/' -e 's/in/go.id/' -e 's/[0-9]//g' | Gunakan 
 
 Commands | Keterangan
 ---------|-----------
-cat linepattern.txt I awk '{print $1}' | $1 = menghapus kata pertama dalam 1 baris kalimat.    
+cat linepattern.txt I awk '{print $1}' | $1 = mengambil kata pertama dalam 1 baris kalimat.    
