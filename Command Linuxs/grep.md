@@ -18,3 +18,10 @@ cat urls.txt I sed 's/^/https:\/\//'  | Menambahkan https:// dibelakang nama url
 cat urls.txt I sed 's/[a-z]//g' | Menghapus konten yang mengandung string a-z.    
 cat urls.txt I sed 's/[0-9]//g' I sed 'y/abcdefghijklmnopqrstuvwxyz/ABCDEFGHIJKLMNOPQRSTYVWXYZ/'  | mengubah huruf abjad biasa menjadi huruf KAPITAL
 at urls.txt I sed  -e 's/com/yahoo/' -e 's/in/go.id/' -e 's/[0-9]//g' | Gunakan -e untuk Multiple perintah satu baris sed
+
+
+### Awk For Bug Bountys
+
+Commands | Keterangan
+---------|-----------
+cat linepattern.txt I awk '{print $1}' | $1 = menghapus kata pertama dalam 1 baris kalimat.    
