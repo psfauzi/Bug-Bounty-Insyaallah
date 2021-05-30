@@ -3,8 +3,8 @@ Grep singkatan dari golbal regular Exppression
 
 Commands | Keterangan
 ---------|-----------
-1. cat files.txt | grep "string" >  mengambil string.
-2. cat files.txt | grep "string" --color >  mengambil string dan underline dengan warna.
+cat files.txt | grep "string" >  mengambil string.
+cat files.txt | grep "string" --color >  mengambil string dan underline dengan warna.
 
 
 ### Sed For Bug Bountys
@@ -14,7 +14,4 @@ Commands | Keterangan
 3. cat linepattern.txt | sed 's/hi/bye/;s/hello/jello/g' > string hi diubah menjadi bye dan string hello dibuah menjadi jello.
 4. cat urls.txt | sed 's/^/https:\/\//' > Menambahkan https:// dibelakang nama url.
 5. 
-First Header | Second Header
------------- | -------------
-1. cat files.txt | grep "string" > 
-Content in the first column | Content in the second column
+
