@@ -15,5 +15,5 @@ Commands | Keterangan
 2.cat linepattern.txt I sed '/saba/s/hi/bye/'  | Mengganti fil yang memiliki awalan hi menjadi bye dan semua yang mengandung kalimat saba. 
 3.cat linepattern.txt I sed 's/hi/bye/;s/hello/jello/g'  | string hi diubah menjadi bye dan string hello dibuah menjadi jello.
 4.cat urls.txt I sed 's/^/https:\/\//'  | Menambahkan https:// dibelakang nama url.
-
+5.cat urls.txt I sed 's/[a-z]//g' | Menghapus konten yang mengandung string a-z.    
 
