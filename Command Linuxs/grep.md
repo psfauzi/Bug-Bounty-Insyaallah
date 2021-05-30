@@ -3,8 +3,8 @@ Grep singkatan dari golbal regular Exppression
 
 Commands | Keterangan
 ---------|-----------
-cat files.txt | grep "string" > | mengambil string.
-cat files.txt | grep "string" --color > | mengambil string dan underline dengan warna.
+cat files.txt I grep "string" > | mengambil string.
+cat files.txt I grep "string" --color > | mengambil string dan underline dengan warna.
 
 
 ### Sed For Bug Bountys
