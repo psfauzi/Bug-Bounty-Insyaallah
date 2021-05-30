@@ -11,7 +11,7 @@ Commands | Keterangan
 
 Commands | Keterangan
 ---------|-----------
-1.echo hi shifa I sed 's/hi/bye' > | mengganti kata hi menjadi bye ; s = awal dan g=akhir.
+1.echo hi shifa I sed 's/hi/bye' > | mengganti kata hi menjadi bye ; s = awal..
 2.cat linepattern.txt I sed '/saba/s/hi/bye/' > | Mengganti fil yang memiliki awalan hi menjadi bye dan semua yang mengandung kalimat saba. 
 3.cat linepattern.txt I sed 's/hi/bye/;s/hello/jello/g' > | string hi diubah menjadi bye dan string hello dibuah menjadi jello.
 4.cat urls.txt I sed 's/^/https:\/\//' > | Menambahkan https:// dibelakang nama url.
