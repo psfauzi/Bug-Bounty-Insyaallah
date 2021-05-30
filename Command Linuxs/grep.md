@@ -16,5 +16,5 @@ Commands | Keterangan
 5. 
 First Header | Second Header
 ------------ | -------------
-1. cat files.txt #| grep "string" > | Content from cell 2
+1. cat files.txt | grep "string" > 
 Content in the first column | Content in the second column
