@@ -26,3 +26,4 @@ Commands | Keterangan
 ---------|-----------
 cat linepattern.txt I awk '{print $1}' | $1 = mengambil kata pertama dalam 1 baris kalimat.    
 cat patter.txt I awk '/xyz/{print $2}' | /xyz/ = Hanya string xyz dibaris kata kedua dalam 1 baris kalimat.
+cat urls.txt I awk '.' '{print $1}' | '.' = untuk menghilangkan data setelah tanda . exp.bounty.com menjadi bounty  
