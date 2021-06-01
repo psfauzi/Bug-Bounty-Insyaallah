@@ -25,7 +25,7 @@ Wrong Response | Manipulate Response
 ##### Tips #2
 1. Input phone number, and hen send .
 2. Intercept Request and intercept response.
-3. {"msg":"success","OTP":601823}
+3. **{"msg":"success","OTP":601823}**
 4. Boom OTP Exposed.
 5. You can use OTP, Done
 
