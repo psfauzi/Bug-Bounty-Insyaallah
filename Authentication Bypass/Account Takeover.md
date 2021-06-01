@@ -11,5 +11,5 @@
 ##### Tips 2
 1. Login with original user 
 2. Intercept Response 
-3. {"success":true,"msg":"otp is Verified successfully.","user_id":"6342","redirect_uri":"create_package"}
+3. **{"success":true,"msg":"otp is Verified successfully.","user_id":"6342","redirect_uri":"create_package"}**
 4. Change **"user_id":"6342"** To Another ID exp.6343
