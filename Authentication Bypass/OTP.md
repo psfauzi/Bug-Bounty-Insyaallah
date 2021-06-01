@@ -6,6 +6,7 @@ Wrong Response | Manipulate Response
 **{"error"}** | **{"Success"}**
 **{"verificationStatus":false,"mobile":"+62xxxxxxxx","profileId":"450xxxxx"}** | **{"verificationStatus":true,"mobile":"+62xxxxxxxx","profileId":"450xxxxx"}**
 **Input String On OTP if Blank Response Value 200 OK** | **Add number 1**
+**Input Wrong Captcha if Response Value 7 | **Change 7 to 1**
 
 ##### Bypass OTP #2
 > Input 000000 Code To Bypass OTP
