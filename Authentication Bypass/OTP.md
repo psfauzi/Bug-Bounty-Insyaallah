@@ -6,3 +6,6 @@ Wrong Response | Manipulate Response
 **{"error"}** | **{"Success"}**
 **{"verificationStatus":false,"mobile":"+62xxxxxxxx","profileId":"450xxxxx"}** | **{"verificationStatus":true,"mobile":"+62xxxxxxxx","profileId":"450xxxxx"}**
 
+
+###### Bypass OTP #2
+> Input 000000 Code To Bypass OTP
