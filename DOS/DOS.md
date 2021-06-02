@@ -1,5 +1,6 @@
 #### Daniel Of Service  Attack
 ---
+###### Tips #1
 1. Login To ***Redacted.com***
 2. Select the  question want to attack / create own  question.
 3. Click reply
