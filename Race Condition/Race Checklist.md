@@ -1,6 +1,6 @@
 ### All Things Race Condition
 
-#####Race Condition Leads To Make Bad review
+###### Race Condition Leads To Make Bad review
 ---
 1. Visit **redacted.com/v1/review/vote**
 2. Intercept request >> Send to Turbo Intruder.
